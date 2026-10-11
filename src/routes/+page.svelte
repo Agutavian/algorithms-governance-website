@@ -51,19 +51,19 @@
 
 
     function increaseMeta(increaseAmount: number) {
-        console.log(increaseAmount)
+        // console.log(increaseAmount)
         metaAlgorithms += increaseAmount
     }
     function increaseGoogle(increaseAmount: number) {
-        console.log(increaseAmount)
+        // console.log(increaseAmount)
         googleSearches += increaseAmount
     }
     function increaseOpenAI(increaseAmount: number) {
-        console.log(increaseAmount)
+        // console.log(increaseAmount)
         openAIPrompts += increaseAmount
     }
     function increaseUSTransactions(increaseAmount: number) {
-        console.log(increaseAmount)
+        // console.log(increaseAmount)
         usTransactions += increaseAmount
     }
 </script>
