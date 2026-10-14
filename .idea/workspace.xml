@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1afcba53-269b-436e-9a30-44a62f59fe26" name="Changes" comment="Updated README.md">
-      <change beforePath="$PROJECT_DIR$/static/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/robots.txt" afterDir="false" />
+    <list default="true" id="1afcba53-269b-436e-9a30-44a62f59fe26" name="Changes" comment="Removed console.log that was spamming the terminal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,79 +16,79 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Agutavian"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Agutavian&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Agutavian/algorithms-governance-website.git",
-    "accountId": "749f6c5e-d39e-41c7-9d8a-398bade362b0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Agutavian/algorithms-governance-website.git&quot;,
+    &quot;accountId&quot;: &quot;749f6c5e-d39e-41c7-9d8a-398bade362b0&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.9093541606867195" />
-      <entry key="MS500" value="1.26439287522254" />
-      <entry key="S2" value="1.7249227667166502" />
-      <entry key="S5" value="1.8796650888982722" />
-      <entry key="S10" value="1.9405355102063284" />
-      <entry key="S30" value="2.3240954634053472" />
-      <entry key="S60" value="3.23913496490921" />
-      <entry key="M2" value="6.013608325034984" />
-      <entry key="M5" value="21.34301678595619" />
-      <entry key="M10" value="47.46863091547724" />
-      <entry key="M15" value="68.7562279847143" />
-      <entry key="M30" value="109.66213351596716" />
-      <entry key="H1" value="151.387324341595" />
-      <entry key="H2" value="201.12118622858452" />
-      <entry key="H4" value="253.839889286431" />
-      <entry key="D1" value="332.2385077783009" />
-      <entry key="W1" value="350.7340039955053" />
+      <entry key="MS100" value="1.0013248089135232" />
+      <entry key="MS500" value="1.2657239185896383" />
+      <entry key="S2" value="1.7181095573103575" />
+      <entry key="S5" value="1.929058958794363" />
+      <entry key="S10" value="2.3336433152339984" />
+      <entry key="S30" value="3.712508414114867" />
+      <entry key="S60" value="6.22517672126398" />
+      <entry key="M2" value="13.058872557748488" />
+      <entry key="M5" value="32.219426318758934" />
+      <entry key="M10" value="60.39933102412217" />
+      <entry key="M15" value="83.61381202838909" />
+      <entry key="M30" value="129.4648463021042" />
+      <entry key="H1" value="176.41184628174884" />
+      <entry key="H2" value="229.95696918816344" />
+      <entry key="H4" value="285.3796690996083" />
+      <entry key="D1" value="367.27815280975574" />
+      <entry key="W1" value="386.58949886178016" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.977740614189057E-308" />
-      <entry key="MS500" value="2.8789483034384645E-62" />
-      <entry key="S2" value="4.1191581512288965E-16" />
-      <entry key="S5" value="7.013315664649037E-7" />
-      <entry key="S10" value="8.374554116279289E-4" />
-      <entry key="S30" value="0.09425887919011054" />
-      <entry key="S60" value="0.308505900258764" />
-      <entry key="M2" value="0.6777717637678582" />
-      <entry key="M5" value="3.345757135337003" />
-      <entry key="M10" value="9.52772519177308" />
-      <entry key="M15" value="14.81467876875178" />
-      <entry key="M30" value="24.970604440202095" />
-      <entry key="H1" value="34.84556173499752" />
-      <entry key="H2" value="45.3620417296487" />
-      <entry key="H4" value="55.79371116338546" />
-      <entry key="D1" value="70.86070388066047" />
-      <entry key="W1" value="74.37953699075469" />
+      <entry key="MS100" value="2.2888506738592816E-75" />
+      <entry key="MS500" value="1.3009292481539337E-15" />
+      <entry key="S2" value="2.9018657523433093E-4" />
+      <entry key="S5" value="0.05774928043194778" />
+      <entry key="S10" value="0.3393255032352586" />
+      <entry key="S30" value="1.146843371767444" />
+      <entry key="S60" value="1.8142035234815084" />
+      <entry key="M2" value="2.782294103016759" />
+      <entry key="M5" value="5.312644615495898" />
+      <entry key="M10" value="10.774240092870144" />
+      <entry key="M15" value="15.955525174276305" />
+      <entry key="M30" value="26.68426360022326" />
+      <entry key="H1" value="37.529223285125504" />
+      <entry key="H2" value="48.849177750565424" />
+      <entry key="H4" value="59.86308856965927" />
+      <entry key="D1" value="75.66380984212735" />
+      <entry key="W1" value="79.35001572164572" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0057257265234945" />
-      <entry key="MS500" value="1.4481543749799617" />
-      <entry key="S2" value="2.323395352917883" />
-      <entry key="S5" value="2.6897314769550844" />
-      <entry key="S10" value="2.8405988271920433" />
-      <entry key="S30" value="3.3799349186068013" />
-      <entry key="S60" value="4.52420890747348" />
-      <entry key="M2" value="7.675741368363562" />
-      <entry key="M5" value="25.669621044077704" />
-      <entry key="M10" value="57.970624568052095" />
-      <entry key="M15" value="84.54402763826877" />
-      <entry key="M30" value="135.60968560499964" />
-      <entry key="H1" value="187.2166062093331" />
-      <entry key="H2" value="247.4725144792183" />
-      <entry key="H4" value="310.626954119074" />
-      <entry key="D1" value="404.0977918766504" />
-      <entry key="W1" value="426.1133277273362" />
+      <entry key="MS100" value="0.0015344069181191134" />
+      <entry key="MS500" value="0.34616772106054267" />
+      <entry key="S2" value="1.2426025247835857" />
+      <entry key="S5" value="1.7481158245814605" />
+      <entry key="S10" value="2.5182339745997946" />
+      <entry key="S30" value="4.776426296063432" />
+      <entry key="S60" value="7.974831595113793" />
+      <entry key="M2" value="15.77299385425155" />
+      <entry key="M5" value="37.46866576551628" />
+      <entry key="M10" value="71.11982214429919" />
+      <entry key="M15" value="99.52187612439906" />
+      <entry key="M30" value="156.114084443553" />
+      <entry key="H1" value="213.91803632323072" />
+      <entry key="H2" value="278.79178618263774" />
+      <entry key="H4" value="345.23419774296633" />
+      <entry key="D1" value="442.9402062908975" />
+      <entry key="W1" value="465.9392526861791" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -99,31 +100,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/marco/Projects/Schoolwork/algorithms-governance-website",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.dev.executor": "Run",
-    "settings.editor.selected.configurable": "terminal",
-    "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "/home/marco/Projects/Schoolwork/algorithms-governance-website/node_modules/typescript/lib"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/marco/Projects/Schoolwork/algorithms-governance-website&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/marco/Projects/Schoolwork/algorithms-governance-website/node_modules/typescript/lib&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -160,7 +161,8 @@
       <workItem from="1791731984994" duration="8444000" />
       <workItem from="1791749423157" duration="530000" />
       <workItem from="1791750130927" duration="132000" />
-      <workItem from="1791750270142" duration="795000" />
+      <workItem from="1791750270142" duration="1506000" />
+      <workItem from="1791850064050" duration="1165000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit! Added functionality and that should be all">
       <option name="closed" value="true" />
@@ -178,7 +180,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791750948193</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated robots.txt">
+      <option name="closed" value="true" />
+      <created>1791751081246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791751081246</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removed console.log that was spamming the terminal">
+      <option name="closed" value="true" />
+      <created>1791751135658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791751135658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +208,8 @@
     </ignored-roots>
     <MESSAGE value="Initial commit! Added functionality and that should be all" />
     <MESSAGE value="Updated README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
+    <MESSAGE value="Updated robots.txt" />
+    <MESSAGE value="Removed console.log that was spamming the terminal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed console.log that was spamming the terminal" />
   </component>
 </project>

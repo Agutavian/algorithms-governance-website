@@ -52,19 +52,23 @@
 
     function increaseMeta(increaseAmount: number) {
         // console.log(increaseAmount)
-        metaAlgorithms += increaseAmount
+        const modifiedIncrease = increaseAmount * ((Math.random() + .5) + 1)
+        metaAlgorithms += Math.round(modifiedIncrease)
     }
     function increaseGoogle(increaseAmount: number) {
         // console.log(increaseAmount)
-        googleSearches += increaseAmount
+        const modifiedIncrease = increaseAmount * ((Math.random() + .5) + 1)
+        googleSearches += Math.round(modifiedIncrease)
     }
     function increaseOpenAI(increaseAmount: number) {
         // console.log(increaseAmount)
-        openAIPrompts += increaseAmount
+        const modifiedIncrease = increaseAmount * ((Math.random() + .5) + 1)
+        openAIPrompts += Math.round(modifiedIncrease)
     }
     function increaseUSTransactions(increaseAmount: number) {
         // console.log(increaseAmount)
-        usTransactions += increaseAmount
+        const modifiedIncrease = increaseAmount * ((Math.random() + .5) + 1)
+        usTransactions += Math.round(modifiedIncrease)
     }
 </script>
 
